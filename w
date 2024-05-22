@@ -1,1 +1,1 @@
-wasd
+https://discord.com/api/webhooks/1238442745669095505/hndAIZJhghH0z93_-xGJTwG2Cdrz90M_7BCiCqkd1oZALvSTYClBslgfl5hdRvAqqSoR
